@@ -2,6 +2,6 @@
 Trainer for basic calculus for children.
 
 Features
-  -addition, substraction, multiplication, division
-  -several difficulties
-  -proper analysis
+  -addition, substraction, multiplication, division\n
+  -several difficulties\n
+  -proper analysis\n
